@@ -1,0 +1,68 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.associations": {
+    "*.py": "python",
+    "*.html": "html",
+    "*.php": "php",
+    "*.md": "markdown",
+    "*.yml": "yaml",
+    "*.yaml": "yaml",
+    "Caddyfile": "caddyfile",
+    ".env": "dotenv",
+    "requirements*txt": "pip-requirements",
+    "*.json": "json"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.rulers": [100],
+    "editor.tabSize": 4,
+    "editor.trimAutoWhitespace": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultColorDecorators": true,
+    "editor.formatOnType": true,
+    "editor.wordBasedSuggestions": "off",
+    "editor.autoIndent": "full"
+  },
+  "[caddyfile]": {
+    "editor.insertSpaces": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.autoIndent": "full"
+  },
+  "[markdown]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    },
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "[gitignore]": {
+    "editor.defaultFormatter": "codezombiech.gitignore"
+  },
+  "[jinja]": {},
+  "[yaml]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "keep",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "autoDocstring.docstringFormat": "sphinx",
+  "autoDocstring.includeName": true,
+  "autoDocstring.quoteStyle": "\"\"\"",
+  "autoDocstring.guessTypes": true,
+  "autoDocstring.startOnNewLine": true
+}

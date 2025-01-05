@@ -1,0 +1,33 @@
+{
+  "recommendations": [
+    "GitHub.vscode-pull-request-github",
+    "njpwerner.autodocstring",
+    "ms-python.black-formatter",
+    "batisteo.vscode-django",
+    "matthewpi.caddyfile-support",
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "mhutchie.git-graph",
+    "codezombiech.gitignore",
+    "golang.go",
+    "ecmel.vscode-html-css",
+    "wholroyd.jinja",
+    "AykutSarac.jsoncrack-vscode",
+    "ms-vscode.Theme-MarkdownKit",
+    "KevinRose.vsc-python-indent",
+    "donjayamanne.python-extension-pack",
+    "mousavian.ssh-config-syntax-highlighter",
+    "Gruntfuggly.todo-tree",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-yaml",
+    "redhat.vscode-xml",
+    "EditorConfig.EditorConfig",
+    "vsls-contrib.gitdoc"
+  ],
+  "unwantedRecommendations": [
+    "eamodio.gitlens",
+    "ms-python.flake8",
+    "vscodevim.vim",
+    "EditorConfig.EditorConfig"
+  ]
+}

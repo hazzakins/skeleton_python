@@ -1,0 +1,40 @@
+---
+# Rather than breaking up descriptions into multiline strings we disable that
+# specific rule in yamllint for this file.
+# yamllint disable rule:line-length
+- color: "eb6420"
+  description: This issue or pull request is awaiting the outcome of another issue or pull request
+  name: blocked
+- color: "000000"
+  description: This issue or pull request involves changes to existing functionality
+  name: breaking change
+- color: "d73a4a"
+  description: This issue or pull request addresses broken functionality
+  name: bug
+- color: "0366d6"
+  description: Pull requests that update a dependency file
+  name: dependencies
+- color: "5319e7"
+  description: This issue or pull request improves or adds to documentation
+  name: documentation
+- color: "cfd3d7"
+  description: This issue or pull request already exists or is covered in another issue or pull request
+  name: duplicate
+- color: "a2eeef"
+  description: This issue or pull request will add or improve functionality, maintainability, or ease of use
+  name: improvement
+- color: "a4fc5d"
+  description: This issue or pull request requires further information
+  name: need info
+- color: "fcdb45"
+  description: This pull request is awaiting an action or decision to move forward
+  name: on hold
+- color: "ef476c"
+  description: This issue is a request for information or needs discussion
+  name: question
+- color: "d73a4a"
+  description: This issue or pull request addresses a security issue
+  name: security
+- color: "ffffff"
+  description: This issue will not be incorporated
+  name: wontfix

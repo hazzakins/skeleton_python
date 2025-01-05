@@ -1,2 +1,3 @@
-# skeleton_python
-Skeleton Project for Python Projects inspired by cisagovs Skeleton projects
+# skeleton
+
+Skeleton Project with defaults for most projects.
