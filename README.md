@@ -4,7 +4,7 @@ Skeleton Project with defaults for most projects.
 
 ## Apply to existing Repositories
 
-[CISAGOV](https://github.com/cisagov/development-guide/blob/develop/project_setup/skeletonize-existing-repository.md)
+[CISAGOV Example Documentation ](https://github.com/cisagov/development-guide/blob/develop/project_setup/skeletonize-existing-repository.md)
 
 ## Starting a New Repositories
 
